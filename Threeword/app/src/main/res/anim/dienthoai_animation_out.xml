@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:tools="http://schemas.android.com/tools"
+    interpolator="@ref/0x010c000d"
+    duration="@ref/0x7f0a0003"
+    tools:ignore="MissingPrefix">
+
+    <translate
+        fromYDelta="0.000000"
+        toYDelta="fraction(429496881)" />
+
+    <alpha
+        fromAlpha="1065353216.000000"
+        toAlpha="0.000000" />
+</set>
